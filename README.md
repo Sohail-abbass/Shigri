@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Muhammad Sohail</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 
-- 🔭 I’m currently working on **Restaurent management system**
+- 🔭 I’m currently working on **Dashboard management system**
 
 - 🌱 I’m currently learning **Angular**
 
-- 💬 Ask me about **Bootstrap,React,vue**
+- 💬 Ask me about **Bootstrap,React,vue,Redux,Api**
 
 - 📫 How to reach me **sohailabbass2081@gmail.com**
 
